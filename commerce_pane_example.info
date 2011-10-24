@@ -1,0 +1,6 @@
+name = Commerce Pane Example
+description = "A basic example of creating custom commerce panes"
+dependencies[] = commerce
+dependencies[] = commerce_checkout
+package = Commerce Pane Example
+core = 7.x
